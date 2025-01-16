@@ -1,9 +1,9 @@
 <?php
 
-define('DATABASE_HOST','localhost');
-define('DATABASE_USER','root');
-define('DATABASE_PASSWORD','password');
-define('DATABASE_NAME','kavya_interior');
+define('DATABASE_HOST','fdb7.biz.nf');
+define('DATABASE_USER','1667126_demo');
+define('DATABASE_PASSWORD','lUDVA!2345');
+define('DATABASE_NAME','1667126_demo');
 
 
 define("PROJECT_FOLDER", "projects");
