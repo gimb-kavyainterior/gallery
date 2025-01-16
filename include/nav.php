@@ -11,7 +11,7 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="../">Home<br></a></li>  
+          <li><a href="http://kavya.myartsonline.com/">Home<br></a></li>  
           </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
