@@ -134,7 +134,6 @@ function update_table_data($connection_object, $update_query): bool
 function delete_table_data($connection_object, $delete_query): bool
 {
     $query_response = $connection_object->query($delete_query);
-    echo $query_response;
     if ($query_response == true) {
         return true;
     }

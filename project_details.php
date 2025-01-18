@@ -85,8 +85,8 @@ require_once "./include/nav.php";
                                     class="btn-visit  glightbox align-self-start">Project Walkthrough</a></li>
                             <li>
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d46401.029601493436!2d69.88696224778292!3d23.322256798827443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1737032963938!5m2!1sen!2sin"
-                                    width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.828820587801!2d70.13410297594304!3d23.066736514677494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3950b98def573eaf%3A0xcdb2a71b5bea626f!2sKavya%20Interior!5e0!3m2!1sen!2sin!4v1737177107563!5m2!1sen!2sin"
+                                    width="350" height="300" style="border:0;" allowfullscreen="" loading="lazy"
                                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </li>
                         </ul>

@@ -10,7 +10,13 @@ include "header.php";
 ?>
 
 <body class="create_project_body">
+  
     <div class="form-container">
+    <div class="home_create">
+        <a href="./admin.php">Home</a>
+        |
+        <a href="./project_data_table.php">Projects</a>
+    </div>
         <h2>Create Project</h2>
         <form enctype="multipart/form-data" method="POST">
             <div class="form-group">
